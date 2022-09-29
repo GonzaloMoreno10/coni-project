@@ -1,0 +1,3 @@
+/*
+    Aca se deben declarar las rutas que usara nuestra aplicacion
+*/

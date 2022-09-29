@@ -1,0 +1,4 @@
+/*
+    En la carpeta constantes se deben crear objetos o constantes que no van a cambiar en todo el codigo
+    Se suele utilizar para estados de una base de datos
+*/
